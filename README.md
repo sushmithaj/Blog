@@ -1,3 +1,3 @@
 # Blog
-A Blog using Django
+###### Learning repository
 Just trying out Django and creating a blog
